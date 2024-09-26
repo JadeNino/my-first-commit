@@ -1,0 +1,1 @@
+print("Ikaw akong kusog")

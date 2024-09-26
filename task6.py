@@ -1,0 +1,1 @@
+print("Ikaw lang sapat na")

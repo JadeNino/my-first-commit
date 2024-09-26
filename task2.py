@@ -1,0 +1,1 @@
+print("Bakod na kay klasi pa")
